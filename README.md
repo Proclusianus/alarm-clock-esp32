@@ -53,15 +53,6 @@ board_build.partitions = boards/default_16MB.csv
     *   **Right Encoder:** Switch between "Back", "Add", and "Delete" options.
 *   **Stopping Alarms:** When the alarm triggers, press the dedicated **Hardware Button** to stop the audio stream.
 
-## 🚀 Getting Started
-1.  **Clone the Repository:**
-    ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_PROJECT_NAME.git
-    ```
-2.  **Open in VS Code:** Ensure you have the **PlatformIO** extension installed.
-3.  **Check Pin Definitions:** Open `defines.h` and verify that the GPIO pins match your wiring.
-4.  **Build and Upload:** Connect your ESP32-S3 and click the **Upload** icon in the PlatformIO toolbar.
-
 ## ⚖️ Copyright & Usage
 
 This project was created solely for my professional portfolio and demonstration purposes. All rights reserved. No part of this repository may be used, redistributed, or modified without my explicit permission.
